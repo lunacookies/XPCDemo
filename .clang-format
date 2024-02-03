@@ -1,0 +1,13 @@
+AlignAfterOpenBracket: DontAlign
+AlignTrailingComments: false
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+ColumnLimit: 100
+ContinuationIndentWidth: 8
+Cpp11BracedListStyle: false
+IndentWidth: 8
+ObjCBlockIndentWidth: 8
+UseTab: ForIndentation
